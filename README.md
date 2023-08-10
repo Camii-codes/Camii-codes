@@ -1,16 +1,32 @@
-### Hi there 👋
+### Olá Mundo!👋
+##
 
-<!--
-**Camii-codes/Camii-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div>
+  <a href="https://github.com/Camii-codes">
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Camii-codes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="100em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Camii-codes&hide=css,java,html&theme=tokyonight">
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <h5>Linguagens que já aprendi:</h5>
+  <img align="center" alt="Cami-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cami-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h5>Linguagens e frameworks que quero aprender:</h5>
+  <img align="center" alt="Cami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cami-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Cami-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Cami-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<h6>Ferramentas que utilizo:</h6>
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![visual-studio-code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat-square&logo=visual-studio-code)
+
+</div>
+
+
+
+
+
