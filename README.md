@@ -1,12 +1,12 @@
-### Olá Mundo!👋
-##
+<h3 align="center">Olá Mundo!👋 </h3>
+<hr>
 
- <div>
+ <div align="center">
   <a href="https://github.com/Camii-codes">
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Camii-codes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <h5>Linguagens que já aprendi:</h5>
   <img align="center" alt="Cami-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cami-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
