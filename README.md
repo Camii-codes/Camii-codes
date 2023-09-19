@@ -1,12 +1,6 @@
 <h3 align="center">Olá Mundo!👋 </h3>
 <hr>
 
-<div>
-  <a href="https://github.com/Camii-codes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Camii-codes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camii-codes&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 <div align="center" style="display: inline_block"><br>
   <h5>Linguagens que já aprendi:</h5>
   <img align="center" alt="Cami-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
