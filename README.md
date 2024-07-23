@@ -1,5 +1,4 @@
 <h3 align="center">Olá Mundo!👋 </h3>
-<hr>
 <h3 align="center"> www.camiandrade.com </h3>
 <hr> 
 <div align="center" style="display: inline_block">
